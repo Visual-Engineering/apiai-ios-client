@@ -40,4 +40,6 @@
  */
 @property(nonatomic, copy, readonly) NSArray AI_GENERICS_1(NSDictionary *) *messages;
 
+@property(nonatomic, copy, readonly) NSDictionary *data;
+
 @end
