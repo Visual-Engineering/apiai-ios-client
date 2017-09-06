@@ -5,12 +5,12 @@
     "summary": "The API.AI iOS SDK makes it easy to integrate speech recognition with API.AI natural language processing API on iOS devices. With added webhook response fulfillment 'data' parameter.",
     "homepage": "http://api.ai/",
     "authors": {
-        "Dmitriy Kuragin": "kuragin@speaktoit.com",
+        "Dmitriy Kuragin": "kuragin@speaktoit.com"
     },
 
     "source": {
         "git": "https://github.com/Visual-Engineering/apiai-ios-client",
-        "commit": "69117b259cd98a5b1d8ed4ae65305de73f99905e"
+        "commit": "b21918b6130bcf4be9100c09d766706dc9dcaa3b"
     },
 
     "requires_arc": true,
@@ -71,7 +71,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             },
 
             "platforms": {
@@ -98,7 +98,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             },
 
             "platforms": {
@@ -133,7 +133,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             },
 
             "platforms": {
@@ -166,8 +166,8 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": [],
-                "ApiAI/VoiceRequest": []
+                "VisualEnginApiAI/Core": [],
+                "VisualEnginApiAI/VoiceRequest": []
             },
 
             "platforms": {
@@ -196,7 +196,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             }
         },
         {
@@ -221,7 +221,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             }
          },
          {
@@ -244,7 +244,7 @@
             "requires_arc": true,
 
             "dependencies": {
-                "ApiAI/Core": []
+                "VisualEnginApiAI/Core": []
             }
          }
     ]
