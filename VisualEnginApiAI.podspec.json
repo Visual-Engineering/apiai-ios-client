@@ -10,7 +10,7 @@
 
     "source": {
         "git": "https://github.com/Visual-Engineering/apiai-ios-client",
-        "commit": "b21918b6130bcf4be9100c09d766706dc9dcaa3b"
+        "commit": "e17580e685e044168ab3c7882c85dc740fece3ad"
     },
 
     "requires_arc": true,
